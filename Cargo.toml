@@ -9,6 +9,8 @@ members = [
   "picus",
   "llzk",
   "driver",
+  "integration",
+  "integration-macros",
   "support/midnight",
   "support/mdnt-test-circuits",
 ]
